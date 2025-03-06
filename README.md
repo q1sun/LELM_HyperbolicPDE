@@ -4,9 +4,9 @@ Machine learning methods, which exploit auto-differentiation to compute derivati
 
 ## Citation
 
-@article{liu2024lift,
-  title={Lift-and-Embed Learning Methods for Solving Scalar Hyperbolic Equations with Discontinuous Solutions},
-  author={Liu, Zhenjiang and Sun, Qi and Xu, Xuejun},
-  journal={arXiv preprint arXiv:2411.05382},
-  year={2024}
-}
+    @article{liu2024lift,
+      title={Lift-and-Embed Learning Methods for Solving Scalar Hyperbolic Equations with Discontinuous Solutions},
+      author={Zhenjiang Liu, Qi Sun, and Xuejun Xu},
+      journal={arXiv preprint arXiv:2411.05382},
+      year={2024}
+    }
