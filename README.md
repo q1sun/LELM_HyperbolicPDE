@@ -4,7 +4,6 @@ Deep learning methods, which exploit auto-differentiation to compute derivatives
 
 In this paper, we propose a novel lift-and-embed learning method to effectively resolve these challenges. The proposed method comprises three innovative components: 
 
-(i)  (ii) and (iii)  
 -  embedding the Rankine-Hugoniot condition within a one-order higher-dimensional space by including an augmented variable;
 -  utilizing neural networks to handle the increased dimensionality and address both linear and nonlinear problems within a unified mesh-free learning framework; 
 -  projecting the trained model back onto the original physical domain to obtain the approximate solution.
