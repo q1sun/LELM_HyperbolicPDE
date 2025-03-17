@@ -12,7 +12,7 @@ Notably, the location of discontinuities can be treated as trainable parameters 
 
 ## Citation
 
-    @article{liu2024lift,
+    @article{sun2024lift,
       title={Lift-and-Embed Learning Methods for Solving Scalar Hyperbolic Equations with Discontinuous Solutions},
       author={Qi Sun, Zhenjiang Liu, Lili Ju, and Xuejun Xu},
       journal={arXiv preprint arXiv:2411.05382},
