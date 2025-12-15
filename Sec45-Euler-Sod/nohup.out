@@ -1,0 +1,316 @@
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Eular/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 15, in <module>
+    from DataSets  import Sample_Point, Exact_Solution
+  File "/root/data1/Euler/One-NN/DataSets/Sample_Point.py", line 16
+    X = 0. 5 + r * torch.cos(theta)
+           ^
+SyntaxError: invalid syntax
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 392, in <module>
+    trainloss_intrr_epoch_1, trainloss_intrr_epoch_2, trainloss_intrr_epoch_3, trainloss_init_epoch_rho, trainloss_init_epoch_p, trainloss_init_epoch_u, trainloss_shock_epoch, trainloss_contk_epoch, trainloss_epoch = train_epoch(epoch, model, optimizer, device)
+  File "main_Sod_Shock_tube.py", line 264, in train_epoch
+    smppts_taill = smppts_taill.to(device)
+UnboundLocalError: local variable 'smppts_taill' referenced before assignment
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 392, in <module>
+    trainloss_intrr_epoch_1, trainloss_intrr_epoch_2, trainloss_intrr_epoch_3, trainloss_init_epoch_rho, trainloss_init_epoch_p, trainloss_init_epoch_u, trainloss_shock_epoch, trainloss_contk_epoch, trainloss_epoch = train_epoch(epoch, model, optimizer, device)
+  File "main_Sod_Shock_tube.py", line 264, in train_epoch
+    smppts_taill = smppts_taill.to(device)
+UnboundLocalError: local variable 'smppts_taill' referenced before assignment
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Traceback (most recent call last):
+  File "main_Sod_Shock_tube.py", line 392, in <module>
+    trainloss_intrr_epoch_1, trainloss_intrr_epoch_2, trainloss_intrr_epoch_3, trainloss_init_epoch_rho, trainloss_init_epoch_p, trainloss_init_epoch_u, trainloss_shock_epoch, trainloss_contk_epoch, trainloss_epoch = train_epoch(epoch, model, optimizer, device)
+  File "main_Sod_Shock_tube.py", line 264, in train_epoch
+    smppts_taill = smppts_taill.to(device)
+UnboundLocalError: local variable 'smppts_taill' referenced before assignment
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/One-NN/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+  File "main_Sod_Shock_tube.py", line 579
+    io.savemat{args.result+"/hist_c.mat", hist_c}
+              ^
+SyntaxError: invalid syntax
+  File "main_Sod_Shock_tube.py", line 579
+    io.savemat{args.result+"/hist_c.mat", hist_c}
+              ^
+SyntaxError: invalid syntax
+  File "main_Sod_Shock_tube.py", line 579
+    io.savemat{args.result+"/hist_c.mat", hist_c}
+              ^
+SyntaxError: invalid syntax
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Euler/Trainable-Param/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+python3: can't open file 'main-BL-Inversed.py': [Errno 2] No such file or directory
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+Terminated
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
+/root/data1/Codes-Refined/Sec45-Euler-Sod/DataSets/Exact_Solution.py:24: UserWarning: To copy construct from a tensor, it is recommended to use sourceTensor.clone().detach() or sourceTensor.clone().detach().requires_grad_(True), rather than torch.tensor(sourceTensor).
+  return torch.tensor(f)
