@@ -1,0 +1,60 @@
+Terminated
+Terminated
+Traceback (most recent call last):
+  File "main-BL-Inversed.py", line 318, in <module>
+    fig.savefig(os.path.join(args.figures,'TrainCurve.png'))
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/figure.py", line 3046, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 2319, in print_figure
+    result = print_method(
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1648, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/_api/deprecation.py", line 415, in wrapper
+    return func(*inner_args, **inner_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_agg.py", line 541, in print_png
+    mpl.image.imsave(
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/image.py", line 1675, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/PIL/Image.py", line 2297, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'Figures/Python/simulation_0/TrainCurve.png'
+Traceback (most recent call last):
+  File "main-BL-Inversed.py", line 318, in <module>
+    fig.savefig(os.path.join(args.figures,'TrainCurve.png'))
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/figure.py", line 3046, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 2319, in print_figure
+    result = print_method(
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1648, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/_api/deprecation.py", line 415, in wrapper
+    return func(*inner_args, **inner_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_agg.py", line 541, in print_png
+    mpl.image.imsave(
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/image.py", line 1675, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/PIL/Image.py", line 2297, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'Figures/Python/simulation_1/TrainCurve.png'
+Traceback (most recent call last):
+  File "main-BL-Inversed.py", line 318, in <module>
+    fig.savefig(os.path.join(args.figures,'TrainCurve.png'))
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/figure.py", line 3046, in savefig
+    self.canvas.print_figure(fname, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 2319, in print_figure
+    result = print_method(
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backend_bases.py", line 1648, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/_api/deprecation.py", line 415, in wrapper
+    return func(*inner_args, **inner_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/backends/backend_agg.py", line 541, in print_png
+    mpl.image.imsave(
+  File "/usr/local/lib/python3.8/dist-packages/matplotlib/image.py", line 1675, in imsave
+    image.save(fname, **pil_kwargs)
+  File "/usr/local/lib/python3.8/dist-packages/PIL/Image.py", line 2297, in save
+    fp = builtins.open(filename, "w+b")
+FileNotFoundError: [Errno 2] No such file or directory: 'Figures/Python/simulation_2/TrainCurve.png'
+run.sh: line 16: unexpected EOF while looking for matching `''
+run.sh: line 17: syntax error: unexpected end of file
+Terminated
+Terminated
