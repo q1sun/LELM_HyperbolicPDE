@@ -10,6 +10,8 @@ In this paper, we propose a novel lift-and-embed learning method to effectively 
 
 Notably, the location of discontinuities also can be treated as trainable parameters in our method and inferred concurrently with the training of neural network solutions. With collocation points sampled only on piecewise surfaces rather than fulfilling the whole lifted space, we demonstrate through extensive numerical experiments that our method can efficiently and accurately solve scalar hyperbolic equations with discontinuous solutions without spurious smearing or oscillations.
 
+The table below summarises the neural network hyperparameters, training dataset size, number of training epochs, and computational resource information for each PDE experiment in this paper.
+
 | Equation | Section | Neural Network (Depth, Width) | Penalty Coeff. (β_S, β_B, β_I) | Train Data Size (N_Intrr, N_Shock, N_Bndry, N_Initl) | Test Data Size (N_x, N_t) | Training Epochs | Runtime (h:m:s) | # Trainable Parameters | Memory (MB) | Learning Rate (solution, speed) |
 |----------|---------|-------------------------------|---------------------------------|--------------------------------------------------------|----------------------------|----------------|----------------|----------------------|-------------|--------------------------------|
 | Linear Convection | 3.1.1 | (2, 40) | (400, 1, 400) | (10k, 4k, 2k, 1k) | (1k, 1k) | 12k | 0:18:50 | 3,481 | 13.60 | (1e-2, ✗) |
